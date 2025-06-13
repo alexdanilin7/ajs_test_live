@@ -1,0 +1,1 @@
+![Workflow Status](https://img.shields.io/github/actions/workflow/status/ваш-юзер/ваш-репозиторий/update-readme.yml?label=workflow%20status)
