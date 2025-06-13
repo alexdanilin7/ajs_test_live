@@ -1,1 +1,1 @@
-![Workflow Status](https://img.shields.io/github/actions/workflow/status/ваш-юзер/ваш-репозиторий/update-readme.yml?label=workflow%20status)
+![Workflow Status](https://img.shields.io/github/actions/workflow/status/alexdanilin7/ajs_test_live/main.yml?label=workflow%20status)
